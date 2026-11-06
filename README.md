@@ -7,7 +7,7 @@
 - 網站：https://t508-ksvs.github.io/ai-learning-lab/
 - GitHub：https://github.com/t508-ksvs/ai-learning-lab
 - 原站：https://sites.google.com/a/ksvs.kh.edu.tw/misszhang0119
-- 收錄19筆教材：字根詞彙、文法句作、考試準備、化工與汽車PVQC。
+- 收錄20筆教材：字根詞彙、文法句作、考試準備、化工與汽車PVQC。
 - 含31–50核心字兩版，以及新發布的PVQC化學字根「講義版」「學生學習版」。
 
 功能：主題篩選、搜尋、瀏覽器本機收藏、教材詳情與來源、三種學習路徑。收藏不跨裝置同步；練習在原教材開啟。

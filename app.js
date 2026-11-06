@@ -1,6 +1,7 @@
 const base='https://sites.google.com/a/ksvs.kh.edu.tw/misszhang0119';
 const sources={english:base+'/ai協作英文教材',chem:base+'/ai協作化工pvqc',car:base+'/ai協作汽車pvqc'};
 const resources=[
+{id:'minimal-core-polysemy-wordmaps',title:'極簡核心一字多義｜張老師單字圖',category:'字根詞彙',format:'A–Z 圖像索引',desc:'依 A–Z 索引找單字、聽發音，搭配單字圖理解同一個英文單字的不同意思。',url:'https://t508-ksvs.github.io/minimal-core-polysemy-wordmaps/',source:'https://t508-ksvs.github.io/minimal-core-polysemy-wordmaps/',visual:'A–Z\nWORD MAPS',sub:'ONE WORD · MANY MEANINGS',mark:'✳',tone:'root',note:'此入口連至張老師的「極簡核心一字多義」教材首頁。'},
 {id:'root-images',title:'30 個核心字・圖像記憶版',category:'字根詞彙',format:'圖文教材',desc:'從核心字的圖像開始，建立字彙之間的連結。適合作為字根學習的起點。',url:'https://merry-fudge-c3a2d6.netlify.app/',source:sources.english,visual:'ROOT\n& WORD',sub:'VISUAL LEARNING',mark:'✳',tone:'root'},
 {id:'root-handout',title:'核心字・講義補充版',category:'字根詞彙',format:'補充教材',desc:'搭配核心字圖文教材使用，延伸閱讀與複習。可與圖像記憶版互相參照。',url:'https://extraordinary-heliotrope-a89b1e.netlify.app/',source:sources.english,visual:'word\nby word.',sub:'READ & CONNECT',mark:'↗',tone:'root'},
 {id:'root-31-50-mixed',title:'31–50 核心字・圖文自學豪華版',category:'字根詞彙',format:'字根混合學習版',desc:'接續核心字學習，以圖像、故事與構詞連結第 31–50 個單字，搭配主動回想及間隔複習。',url:'https://mvcos-31-50-root-learning.netlify.app/',source:base,visual:'31–50\nROOTS',sub:'VISUAL & MIXED LEARNING',mark:'✳',tone:'root',note:'原站導覽名稱為「31-50核心字圖文自學豪華版」，目的頁標題為「MVCOS 31–50｜字根混合學習版」。已確認頁面可開啟，完整練習流程尚未逐一驗證。'},
