@@ -7,7 +7,7 @@
 - 網站：https://t508-ksvs.github.io/ai-learning-lab/
 - GitHub：https://github.com/t508-ksvs/ai-learning-lab
 - 原站：https://sites.google.com/a/ksvs.kh.edu.tw/misszhang0119
-- 收錄21筆教材：字根詞彙、文法句作、考試準備、化工與汽車PVQC。
+- 收錄22筆教材：字根詞彙、文法句作、口說對話、考試準備、化工與汽車PVQC。
 - 含31–50核心字兩版，以及新發布的PVQC化學字根「講義版」「學生學習版」。
 
 功能：主題篩選、搜尋、瀏覽器本機收藏、教材詳情與來源、三種學習路徑。收藏不跨裝置同步；練習在原教材開啟。
@@ -50,3 +50,7 @@ PVQC化學教材來源：https://t508-ksvs.github.io/pvqc-chemistry-root-learnin
 ## 2026-11-16 Pac-Man Vocab Arcade 單字遊戲入口
 
 依使用者指定，新增 https://sites.google.com/view/pac-manvocarcade6/full-page-embed 到「字根詞彙」，名稱為「Pac-Man Vocab Arcade・單字街機遊戲」，總計21筆教材（含 11/06 新增之「極簡核心一字多義｜張老師單字圖」）。保留原教材內容與網址。
+
+## 2026-11-16 AI 輔助生成英語對話口說教材入口
+
+依使用者指定，新增「口說對話」分類並加入 https://drive.google.com/drive/folders/1Jd0OBU2umF0p_VssqcbUuZDa79cN7emG，名稱為「AI 輔助生成・英語對話口說教材」，總計22筆教材。保留原教材內容與網址。
